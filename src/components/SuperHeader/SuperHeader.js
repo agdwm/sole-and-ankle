@@ -32,6 +32,7 @@ const Wrapper = styled.div`
   color: ${COLORS.gray[300]};
   background-color: ${COLORS.gray[900]};
   padding: 0.5rem 2rem;
+  min-height: 2.5rem;
 `;
 
 const MarketingMessage = styled.span`
